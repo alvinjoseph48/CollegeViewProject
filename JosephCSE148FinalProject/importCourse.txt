@@ -1,0 +1,2 @@
+CSE148,Object Oriented Programming,4,Learn Java , Intro to java programming
+CSE218,Data Structures,4, learn alogthrimts, Intro to Data Strucutes

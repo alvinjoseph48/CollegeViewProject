@@ -1,0 +1,8 @@
+Course [courseNumber=2, courseTitle=2, courseDescription=21, courseCredits=2.0, textbooks=[2]]
+Course [courseNumber=2, courseTitle=2, courseDescription=2, courseCredits=2.0, textbooks=[2]]
+Course [courseNumber=CSE148, courseTitle=Object Oriented Programming, courseDescription=Learn Java , courseCredits=4.0, textbooks=[Textbook [bookISBN= Intro to java programming, bookTitle=null, bookAuthors=[], bookPrice=0.0]]]
+Course [courseNumber=CSE218, courseTitle=Data Structures, courseDescription= learn alogthrimts, courseCredits=4.0, textbooks=[Textbook [bookISBN= Intro to Data Strucutes, bookTitle=null, bookAuthors=[], bookPrice=0.0]]]
+Course [courseNumber=CSE148, courseTitle=Object Oriented Programming, courseDescription=Learn Java , courseCredits=4.0, textbooks=[Textbook [bookISBN= Intro to java programming, bookTitle=null, bookAuthors=[], bookPrice=0.0]]]
+Course [courseNumber=CSE218, courseTitle=Data Structures, courseDescription= learn alogthrimts, courseCredits=4.0, textbooks=[Textbook [bookISBN= Intro to Data Strucutes, bookTitle=null, bookAuthors=[], bookPrice=0.0]]]
+Course [courseNumber=CSE148, courseTitle=Object Oriented Programming, courseDescription=Learn Java , courseCredits=4.0, textbooks=[Textbook [bookISBN= Intro to java programming, bookTitle=null, bookAuthors=[], bookPrice=0.0]]]
+Course [courseNumber=CSE218, courseTitle=Data Structures, courseDescription= learn alogthrimts, courseCredits=4.0, textbooks=[Textbook [bookISBN= Intro to Data Strucutes, bookTitle=null, bookAuthors=[], bookPrice=0.0]]]

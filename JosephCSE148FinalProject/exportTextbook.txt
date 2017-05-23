@@ -1,0 +1,4 @@
+Textbook [bookISBN=1, bookTitle=1, bookAuthors=[Author [authorFirstName=1, authorLastName=1]], bookPrice=1.0]
+Textbook [bookISBN=2, bookTitle=32, bookAuthors=[Author [authorFirstName=2, authorLastName=2]], bookPrice=2.0]
+Textbook [bookISBN=1234, bookTitle=alvin, bookAuthors=[Author [authorFirstName= kevin, authorLastName=j], Author [authorFirstName=matt, authorLastName=joseph ]], bookPrice=30.0]
+Textbook [bookISBN=431, bookTitle=a, bookAuthors=[Author [authorFirstName= k, authorLastName=jo], Author [authorFirstName=m, authorLastName=j ]], bookPrice=3.0]

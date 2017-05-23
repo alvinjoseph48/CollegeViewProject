@@ -1,0 +1,1 @@
+Person [firstName=1, lastName=1, id=309, phone=6312774249, address=Address [streetNumber=1, streetName=1, city=11751, state=Alabama, zip=11751]]Student [coursesTook=[CSE111], coursesTaking=[CSE111], coursesNeeded=[1], gpa=2.0, creditsTaking=1.0, major=CSE]
